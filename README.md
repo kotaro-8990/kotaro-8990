@@ -1,3 +1,6 @@
+## 👋 Hi there!  
+I'm @[kotaro-8990].  
+I am interested in technology, translation, and collaborative projects.
 ## 👋 はじめまして！
 私は @[kotaro-8990] です。  
 技術や翻訳に興味があり、GitHubで日本語のドキュメント作成を進めています。

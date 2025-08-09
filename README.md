@@ -1,7 +1,8 @@
 ## 👋 Hi there!  
 I'm @[kotaro-8990].  
-[GitHub followers](https://img.shields.io/github/followers/kotaro-8990?style=social)
-![Languages](https://img.shields.io/badge/Languages-Japanese%20%26%20English-blue)
+
+“Exploring the logic behind languages, biology, and technology — one repo at a time.”「言葉・生物・技術の“なぜ？”を探究するGitHub旅人」
+
 I am interested in technology, translation, and collaborative projects.
 ## 👋 はじめまして！
 私は @[kotaro-8990] です。  
@@ -23,11 +24,16 @@ I am interested in technology, translation, and collaborative projects.
 - 技術ドキュメントの日本語訳作成  
 - GitHubを活用した教育支援プロジェクト  
 
-### 📫 連絡方法
-GitHubの[Discussions](https://github.com/) または Issues を通じてご連絡ください！  
+### ⚡ ちょっとした豆知識  
+🧠 数学と技術の融合に興味があります！  
+🔍 「なぜ？」を掘り下げるのが好きです  
+🎨 言葉遊びと構造分析が得意です
 
-### ⚡ ちょっとした豆知識
-数学と技術の融合に興味があります！
+### 📫 連絡方法
+
+📫 ご連絡は [Discussions](https://github.com/kotaro-8990/kotaro-8990/discussions) または [Issues](https://github.com/kotaro-8990/kotaro-8990/issues) からどうぞ！
+
+[![Linkbio](https://img.shields.io/badge/Link-InstaBio-blue)](https://instabio.cc/5010908esQ7V8)
 
 ---
 

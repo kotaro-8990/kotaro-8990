@@ -20,7 +20,7 @@ I am interested in technology, translation, and collaborative projects.
 - GitHubのリポジトリ管理とコラボレーション  
 - 日本語と英語の翻訳作業  
 
-### 💞 協力したいプロジェクト
+### 💞 協力したいプロジェクト### 
 - 技術ドキュメントの日本語訳作成  
 - GitHubを活用した教育支援プロジェクト  
 

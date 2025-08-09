@@ -1,7 +1,8 @@
 ## 👋 Hi there!  
 I'm @[kotaro-8990].  
 
-“Exploring the logic behind languages, biology, and technology — one repo at a time.”「言葉・生物・技術の“なぜ？”を探究するGitHub旅人」
+“Exploring the logic behind languages, biology, and technology — one repo at a time.”
+「言葉・生物・技術の“なぜ？”を探究するGitHub旅人」
 
 I am interested in technology, translation, and collaborative projects.
 ## 👋 はじめまして！
@@ -9,18 +10,19 @@ I am interested in technology, translation, and collaborative projects.
 技術や翻訳に興味があり、GitHubで日本語のドキュメント作成を進めています。
 
 ### 👀 興味があること
-## Interests  
+- 技術的な課題解決と開発支援  
 - 数学と生物学の探求  
+- 技術的な課題解決と開発支援
   ![Math](https://img.shields.io/badge/Interest-Math-green)
 - GitHubの技術ドキュメント翻訳  
   ![Docs](https://img.shields.io/badge/Docs-Translation-yellow)
-- 技術的な課題解決と開発支援 
+ 
 
 ### 🌱 現在学んでいること
 - GitHubのリポジトリ管理とコラボレーション  
 - 日本語と英語の翻訳作業  
 
-### 💞 協力したいプロジェクト### 
+### 💞 協力したいプロジェクト
 - 技術ドキュメントの日本語訳作成  
 - GitHubを活用した教育支援プロジェクト  
 

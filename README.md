@@ -35,6 +35,10 @@ I am interested in technology, translation, and collaborative projects.
 
 [![Linkbio](https://img.shields.io/badge/Link-InstaBio-blue)](https://instabio.cc/5010908esQ7V8)
 
+<!--
+このREADMEの文章・構成は kotaro-8990 によるオリジナルです。
+無断転載・改変はご遠慮ください。
+-->
 ---
 
 <!---

@@ -1,4 +1,4 @@
-![copilot-image-1754791583830.png](https://i.postimg.cc/HnjwWQNw/copilot-image-1754791583830.png)
+<img src="https://i.postimg.cc/HnjwWQNw/copilot-image-1754791583830.png" alt="プロフィール画像" width="300">
 
 # 👋 Hi there! I'm @kotaro-8990  
 

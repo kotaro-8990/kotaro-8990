@@ -1,3 +1,5 @@
+![copilot-image-1754791583830.png](https://i.postimg.cc/HnjwWQNw/copilot-image-1754791583830.png)
+
 # 👋 Hi there! I'm @kotaro-8990  
 
 > 🌏 Exploring the logic behind languages, biology, and technology — one repo at a time.  
